@@ -86,14 +86,16 @@ spem → Spam
 
 
 ▶️ How to Run This Project
+
 🪜 Step-by-Step Instructions:
-✅Step 1: Clone Repository
+
+✅Step 1: Clone Repository:-
 git clone <a href ="https://github.com/your-username/email-spam-detection-ml.git](https://github.com/rajankumar-1439/email-spam-detection-ml">Email Spam Detection Repository</a>
 
-✅Step 2: Install Dependencies
+✅Step 2: Install Dependencies:-
 pip install pandas scikit-learn streamlit
 
-✅Step 3: Run Streamlit App
+✅Step 3: Run Streamlit App:-
 streamlit run Email_Spam_Detection.py
 
 ✅ Step 4: Use the App
@@ -108,7 +110,9 @@ streamlit run Email_Spam_Detection.py
 📈 Result & Conclusion
 
 ✅ Successfully built a working spam detection system
+
 ✅ Model generalizes well on unseen messages
+
 ✅ Real-time predictions via web interface
 
 
@@ -130,6 +134,9 @@ Deploy on cloud (Streamlit Cloud / Render)
 👤 Author & Contact
 
 👨‍💻 Rajan kumar
+
 📧 Email: rajankumarmu1439@gmail.com
+
 🔗 GitHub: <a href=" ttps://github.com/rajankumar-1439">GitHub profile </a>
+
 💼 LinkedIn:<a href="https://www.linkedin.com/in/rajan-kumar-mu1439">LinkedIn profile </a>
