@@ -106,6 +106,8 @@ streamlit run Email_Spam_Detection.py
 
 -> View spam prediction instantly
 
+<img width="1265" height="573" alt="Screenshot 2026-01-04 134204" src="https://github.com/user-attachments/assets/52467cf5-a00e-4e53-be43-4f8c18f700b1" />
+
 
 📈 Result & Conclusion
 
@@ -137,6 +139,6 @@ Deploy on cloud (Streamlit Cloud / Render)
 
 📧 Email: rajankumarmu1439@gmail.com
 
-🔗 GitHub: <a href=" ttps://github.com/rajankumar-1439">GitHub profile </a>
+🔗 GitHub: <a href="https://github.com/rajankumar-1439">GitHub profile </a>
 
 💼 LinkedIn:<a href="https://www.linkedin.com/in/rajan-kumar-mu1439">LinkedIn profile </a>
